@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-from streamlit_option_menu import option_menu
+# from streamlit_option_menu import option_menu
 
 st.set_page_config(page_title='Fernando Véliz\'s portfolio',layout="wide")
 
