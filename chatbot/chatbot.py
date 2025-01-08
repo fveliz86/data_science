@@ -124,7 +124,7 @@ Usuario: ¿Puedes hablarme de la experiencia de Fernando en el sector?
 Tito: Fernando ha trabajado como Científico de Datos en Prisma Medios de Pago desde 2018. Trabaja en un Escuadrón de Datos especial para el Área de Riesgo desde 2023.
 
 """
-general_prompt = ["¿Quién es Fernando?", "¿Cuáles son las habilidades de Fernando?", "¿Cuáles son los proyectos de Fernando?", "¿Cómo puedo ponerme en contacto con Fernando?", "¿Cuáles son las experiencias de Fernando en el sector?", "¿Qué tipo de función tecnológica le interesa a Fernando?"].
+general_prompt = ["¿Quién es Fernando?", "¿Cuáles son las habilidades de Fernando?", "¿Cuáles son los proyectos de Fernando?", "¿Cómo puedo ponerme en contacto con Fernando?", "¿Cuáles son las experiencias de Fernando en el sector?", "¿Qué tipo de función tecnológica le interesa a Fernando?"]
 
 def configure_genai():
     """Configure the generative AI model."""
